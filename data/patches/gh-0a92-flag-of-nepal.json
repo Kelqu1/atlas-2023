@@ -1,0 +1,101 @@
+{
+	"id": 666,
+	"name": "Flag of Nepal",
+	"description": "Nepal is a landlocked country in South Asia. It is mainly situated in the Himalayas, but also includes parts of the Indo-Gangetic Plain. It borders the Tibet Autonomous Region of China to the north, and India in the south, east, and west, while it is narrowly separated from Bangladesh by the Siliguri Corridor, and from Bhutan by the Indian state of Sikkim.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Flag_of_Nepal",
+			"https://en.wikipedia.org/wiki/Nepal"
+		],
+		"subreddit": [
+			"Nepal"
+		],
+		"discord": [
+			"tDm28xJ2DN"
+		]
+	},
+	"path": {
+		"89-256": [
+			[
+				811,
+				140
+			],
+			[
+				834,
+				163
+			],
+			[
+				824,
+				163
+			],
+			[
+				835,
+				174
+			],
+			[
+				835,
+				178
+			],
+			[
+				811,
+				178
+			]
+		],
+		"55-59": [
+			[
+				823,
+				319
+			],
+			[
+				822,
+				319
+			],
+			[
+				822,
+				321
+			],
+			[
+				823,
+				321
+			],
+			[
+				823,
+				360
+			],
+			[
+				850,
+				360
+			],
+			[
+				838,
+				347
+			],
+			[
+				838,
+				344
+			],
+			[
+				848,
+				344
+			],
+			[
+				823,
+				320
+			],
+			[
+				823,
+				319
+			]
+		]
+	},
+	"center": {
+		"89-256": [
+			819,
+			170
+		],
+		"55-59": [
+			831,
+			352
+		]
+	}
+}
