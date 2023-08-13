@@ -1,0 +1,124 @@
+{
+	"id": 6000,
+	"name": "Alping 1 racing team",
+	"description": "Is Alping with Depielo and Manon this team is coaching by Esteban Ocon",
+	"links": {
+		"website": [
+			"https://www.youtube.com/@manonlanza",
+			"https://www.youtube.com/@DepieloF1",
+			"https://www.youtube.com/@AlpineCars",
+			"https://fr.wikipedia.org/wiki/GP_Explorer"
+		],
+		"subreddit": [
+			"AlpineF1Team"
+		]
+	},
+	"path": {
+		"61-256": [
+			[
+				-416,
+				63
+			],
+			[
+				-412,
+				64
+			],
+			[
+				-411,
+				66
+			],
+			[
+				-411,
+				68
+			],
+			[
+				-412,
+				70
+			],
+			[
+				-414,
+				70
+			],
+			[
+				-414,
+				71
+			],
+			[
+				-417,
+				71
+			],
+			[
+				-418,
+				70
+			],
+			[
+				-419,
+				68
+			],
+			[
+				-419,
+				66
+			],
+			[
+				-418,
+				64
+			],
+			[
+				-417,
+				63
+			]
+		],
+		"16-60": [
+			[
+				-418,
+				59
+			],
+			[
+				-416,
+				60
+			],
+			[
+				-414,
+				60
+			],
+			[
+				-411,
+				57
+			],
+			[
+				-410,
+				54
+			],
+			[
+				-414,
+				50
+			],
+			[
+				-416,
+				50
+			],
+			[
+				-419,
+				52
+			],
+			[
+				-420,
+				54
+			],
+			[
+				-419,
+				57
+			]
+		]
+	},
+	"center": {
+		"61-256": [
+			-415,
+			67
+		],
+		"16-60": [
+			-415,
+			55
+		]
+	}
+}
