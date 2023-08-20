@@ -1,0 +1,134 @@
+{
+	"id": 5988,
+	"name": "Cupra Racing team",
+	"description": "Is Cupra Racing team, with Horty_ and Baghera Jones",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/hortyunderscore",
+			"https://www.twitch.tv/bagherajones",
+			"https://www.youtube.com/c/BagheraJonesLive",
+			"https://www.youtube.com/@HortyUnderscore",
+			"https://www.cupraofficial.fr/"
+		]
+	},
+	"path": {
+		"63-256": [
+			[
+				-404,
+				13
+			],
+			[
+				-402,
+				13
+			],
+			[
+				-400,
+				14
+			],
+			[
+				-399,
+				17
+			],
+			[
+				-399,
+				15
+			],
+			[
+				-399,
+				18
+			],
+			[
+				-400,
+				20
+			],
+			[
+				-402,
+				21
+			],
+			[
+				-404,
+				21
+			],
+			[
+				-406,
+				20
+			],
+			[
+				-407,
+				18
+			],
+			[
+				-407,
+				16
+			],
+			[
+				-405,
+				14
+			]
+		],
+		"17-62": [
+			[
+				-405,
+				10
+			],
+			[
+				-401,
+				10
+			],
+			[
+				-399,
+				8
+			],
+			[
+				-398,
+				6
+			],
+			[
+				-399,
+				3
+			],
+			[
+				-400,
+				1
+			],
+			[
+				-402,
+				0
+			],
+			[
+				-404,
+				0
+			],
+			[
+				-405,
+				1
+			],
+			[
+				-407,
+				3
+			],
+			[
+				-408,
+				6
+			],
+			[
+				-407,
+				7
+			],
+			[
+				-406,
+				9
+			]
+		]
+	},
+	"center": {
+		"63-256": [
+			-403,
+			17
+		],
+		"17-62": [
+			-403,
+			5
+		]
+	}
+}
