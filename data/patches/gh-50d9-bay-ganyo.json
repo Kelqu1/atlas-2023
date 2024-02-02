@@ -1,0 +1,131 @@
+{
+	"id": 1761,
+	"name": "Bay Ganyo",
+	"description": "A fictional character created by the Bulgarian author Aleko Konstantinov. He is a typical anti-hero, a stereotype of the uneducated, profit-driven Bulgarian and the average Balkan person in general at the time.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Bay_Ganyo"
+		],
+		"subreddit": [
+			"bulgaria"
+		]
+	},
+	"path": {
+		"T, 144-256": [
+			[
+				-303,
+				12
+			],
+			[
+				-305,
+				13
+			],
+			[
+				-306,
+				14
+			],
+			[
+				-307,
+				16
+			],
+			[
+				-308,
+				18
+			],
+			[
+				-309,
+				19
+			],
+			[
+				-309,
+				21
+			],
+			[
+				-308,
+				22
+			],
+			[
+				-307,
+				23
+			],
+			[
+				-306,
+				24
+			],
+			[
+				-305,
+				25
+			],
+			[
+				-304,
+				26
+			],
+			[
+				-300,
+				26
+			],
+			[
+				-299,
+				25
+			],
+			[
+				-298,
+				24
+			],
+			[
+				-297,
+				23
+			],
+			[
+				-296,
+				22
+			],
+			[
+				-295,
+				21
+			],
+			[
+				-295,
+				19
+			],
+			[
+				-296,
+				18
+			],
+			[
+				-296,
+				17
+			],
+			[
+				-297,
+				16
+			],
+			[
+				-297,
+				15
+			],
+			[
+				-298,
+				14
+			],
+			[
+				-299,
+				13
+			],
+			[
+				-300,
+				12
+			],
+			[
+				-304,
+				12
+			]
+		]
+	},
+	"center": {
+		"T, 144-256": [
+			-302,
+			19
+		]
+	}
+}
