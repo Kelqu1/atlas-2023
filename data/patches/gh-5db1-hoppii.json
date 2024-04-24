@@ -1,0 +1,50 @@
+{
+	"id": 1671,
+	"name": "Hoppii",
+	"description": "Hoppii is a german twitch streamer",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/hoppii"
+		],
+		"subreddit": [
+			"hoppii"
+		],
+		"discord": [
+			"cxxh8yPR4M"
+		]
+	},
+	"path": {
+		"T, 159-256": [
+			[
+				132,
+				-628
+			],
+			[
+				132,
+				-611
+			],
+			[
+				202,
+				-612
+			],
+			[
+				203,
+				-612
+			],
+			[
+				203,
+				-628
+			],
+			[
+				169,
+				-628
+			]
+		]
+	},
+	"center": {
+		"T, 159-256": [
+			149,
+			-620
+		]
+	}
+}
