@@ -1,0 +1,44 @@
+{
+	"id": 2626,
+	"name": "Bloodborne Card",
+	"description": "This pixel art features several elements from the videogame Bloodborne, a dystopian gothic/lovecraftian action RPG developed by Fromsoftware in coalition with Japan Studio and Sony, and released in 2015 for the PlayStation 4. \n\nFrom left to right the following elements are depicted: The Hunter's Pistol as one of the most popular firearms in the game, the capital Bs of \"Blood\" and \"Borne\", the Hunter's Mark, a rune that represents the faction the player belongs to, and lastly the Saw Cleaver, one of the most iconic weapons in the game due to being one of the first weapons you can acquire and because of its efficiency, thus earning its massive popularity.",
+	"links": {
+		"website": [
+			"https://www.bloodborne-wiki.com/2015/03/hunter-pistol.html?m=1",
+			"https://www.bloodborne-wiki.com/2015/03/hunter.html?m=1",
+			"https://www.bloodborne-wiki.com/2015/03/saw-cleaver.html?m=1"
+		],
+		"subreddit": [
+			"bloodborne"
+		],
+		"discord": [
+			"Pfcy2mfw"
+		]
+	},
+	"path": {
+		"T, 124-256": [
+			[
+				73,
+				-628
+			],
+			[
+				131,
+				-628
+			],
+			[
+				131,
+				-611
+			],
+			[
+				73,
+				-611
+			]
+		]
+	},
+	"center": {
+		"T, 124-256": [
+			102,
+			-619
+		]
+	}
+}
