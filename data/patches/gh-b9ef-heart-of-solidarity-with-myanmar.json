@@ -1,0 +1,72 @@
+{
+	"id": 5738,
+	"name": "Heart of Solidarity with Myanmar",
+	"description": "A heart showing support and solidarity with the Burmese people in light of the internal crisis in Myanmar.",
+	"links": {},
+	"path": {
+		"T, 194-256": [
+			[
+				-541,
+				44
+			],
+			[
+				-542,
+				45
+			],
+			[
+				-542,
+				46
+			],
+			[
+				-541,
+				47
+			],
+			[
+				-540,
+				48
+			],
+			[
+				-539,
+				49
+			],
+			[
+				-537,
+				49
+			],
+			[
+				-536,
+				48
+			],
+			[
+				-535,
+				47
+			],
+			[
+				-534,
+				46
+			],
+			[
+				-534,
+				45
+			],
+			[
+				-535,
+				44
+			],
+			[
+				-536,
+				43
+			],
+			[
+				-540,
+				43
+			]
+		]
+	},
+	"center": {
+		"T, 194-256": [
+			-538,
+			46
+		]
+	}
+}
